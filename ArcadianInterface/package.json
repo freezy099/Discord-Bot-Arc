@@ -1,0 +1,14 @@
+{
+  "name": "arcadianinterface",
+  "version": "1.0.0",
+  "description": "The Arcadian Interface is an Discord Bot that helps Moderate and Manage the Arcadian Defence Group",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Freezy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

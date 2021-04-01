@@ -1,0 +1,44 @@
+{
+  "Prefix": "!",
+  "Token": "ODI2NjUwNTQ1NzkyMDkwMTUy.YGPkUA.Wr4XaMsmfF0wfS90jYXkmC3Ea0s",
+  "ServerId": 823749177410322493,
+  "ChannelId": 826667436475547648,
+  "DownDetector": true,
+  "DownDetectorInterval": 30,
+  "ServerDownTimeout": 300,
+  "DoNotNotifyStart": "0:00",
+  "DoNotNotifyEnd": "0:00",
+  "PathToPlayerNumberLogsDir": "..\\logs",
+  "PathToLogFile": "",
+  "MinimumLogLevelFile": "Warn",
+  "MinimumLogLevelConsole": "Info",
+  "MentionWhenDownRoleIDs": [ 823770708328448030
+    
+  ],
+  "MentionWhenDownUserIDs": [
+    823770708328448030
+  ],
+  "AdminRoleIds": [
+    823770708328448030
+  ],
+  "AllowedRolesIds": [
+    823770708328448030
+  ],
+  "AdminLevelCommands": [
+    "reloadConfig",
+    "saveConfig",
+    "enableDownNotify",
+    "disableDownNotify"
+  ],
+  "ProcessorAffinity": 4,
+  "Servers": [
+    {
+      "ServerName": "ADG",
+      "ServerIp": "172.96.164.74",
+      "SteamQueryPort": 2307,
+      "NotifyType": 1,
+      "LogPlayerNumbers": true,
+      "ShowPublicly": true
+    }
+  ]
+}
